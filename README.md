@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,20:0A192F,40:00F5FF,60:6C63FF,80:00C2FF,100:050816&text=SYSTEM%20INITIALIZING...&fontColor=00F5FF&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Milena%20Sousa%20-%20ADS%20Student&descAlignY=58"/>
