@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Inicializando+perfil+de+desenvolvedora...;Olá,+eu+sou+Milena+Sousa;Estudante+de+ADS;Aprendendo+linguagem+C;Próximo+nível:+Java;Construindo+meu+futuro+na+tecnologia"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Inicializando+perfil+de+desenvolvedora...;Olá,+eu+sou+Milena+Sousa;Estudante+de+ADS;Aprendendo+linguagem+C;Próximo+nível:+Java;Interesse+em+Cybersegurança"/>
 
 <br><br>
 
@@ -36,6 +36,7 @@ Próximo nível:
   - Programação
   - Tecnologia
   - Inteligência Artificial
+  - Cybersegurança
 
 Ambiente:
   - Windows
@@ -68,6 +69,8 @@ Objetivo:
 ✔ Linguagem C carregada
 
 ✔ Git e GitHub em aprendizado
+
+✔ Interesse em Cybersegurança identificado
 
 ✔ Próximo módulo: Java
 
@@ -108,6 +111,12 @@ EVOLUÇÃO CONSTANTE 🚀
 ## 🔮 Próximo Nível
 
 <img src="https://skillicons.dev/icons?i=java"/>
+
+<br><br>
+
+## 🔐 Área de Interesse
+
+<img src="https://img.shields.io/badge/Cybersecurity-Study-00F5FF?style=for-the-badge"/>
 
 </div>
 
@@ -270,12 +279,12 @@ LEARNING.............RUNNING
 
 JAVA MODULE..........LOADING
 
+CYBERSECURITY........STUDYING
+
 CREATIVITY...........100%
 
 DETERMINATION........∞
 ```
-
-<br>
 
 <div align="center">
 
