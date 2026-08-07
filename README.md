@@ -1,19 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,30:083344,60:06B6D4,100:020617&text=MILENA%20AI%20CORE&fontColor=22D3EE&fontSize=45&fontAlignY=38&animation=fadeIn&desc=Developer%20System%20%7C%20ADS%20Student%20%7C%20Future%20Software%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,20:0A192F,40:00F5FF,60:6C63FF,80:00C2FF,100:050816&text=MILENA%20SOUSA%20DEV&fontColor=00F5FF&fontSize=42&fontAlignY=38&animation=fadeIn&desc=ADS%20Student%20%7C%20C%20Developer%20in%20Progress%20%7C%20Future%20Software%20Developer&descAlignY=58"/>
+
+# ⚡ MILENA SOUSA DEV
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Inicializando+perfil+de+desenvolvedora...;Olá,+eu+sou+Milena+Sousa;Estudante+de+ADS;Aprendendo+linguagem+C;Próximo+nível:+Java;Construindo+meu+futuro+na+tecnologia"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Inicializando+sistema...;Olá,+eu+sou+Milena+Sousa;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Aprendendo+a+linguagem+C;Próximo+nível:+Java;Construindo+meu+futuro+na+tecnologia"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20CORE-ACTIVE-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEVEL-DEVELOPER%20IN%20TRAINING-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEVEL-DEVELOPER%20IN%20TRAINING-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-C%20%7C%20JAVA-00C853?style=for-the-badge"/>
 
 </div>
-
 
 ---
 
@@ -26,57 +25,68 @@ Curso............: Análise e Desenvolvimento de Sistemas
 
 Nível............: Desenvolvedora em formação
 
-
 Linguagem atual:
   - C
-
 
 Próximo nível:
   - Java
 
+Área de interesse:
+  - Desenvolvimento de Software
+  - Programação
+  - Tecnologia
+  - Inteligência Artificial
 
 Ferramentas:
   - Code::Blocks
   - Visual Studio Code
   - Git
   - GitHub
-
+  - Windows
 
 Objetivo:
   Evoluir na programação,
   desenvolver projetos
   e construir minha carreira
-  na área de tecnologia.
+  na tecnologia.
+```
 
-  > iniciar_milena_ai.exe
+---
 
+# 🧠 Minha Jornada
 
-[✔] Estudante de ADS identificada
+```text
+[INICIANDO PERFIL DE DESENVOLVEDORA]
 
-[✔] Sistema de aprendizado iniciado
+✔ Estudante de ADS identificada
 
-[✔] Lógica de programação carregada
+✔ Lógica de programação em evolução
 
-[✔] Linguagem C carregada
+✔ Linguagem C carregada
 
-[✔] Próximo módulo: Java
+✔ Git e GitHub em aprendizado
+
+✔ Próximo módulo: Java
 
 
 STATUS:
 
-DESENVOLVIMENTO: ATIVO 🚀
+EVOLUÇÃO CONSTANTE 🚀
+```
+
+---
 
 # ⚙️ Tech Stack
 
 <div align="center">
 
-## 💻 Linguagem atual
+## 💻 Linguagem Atual
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
 <br><br>
 
-## 🛠 Ferramentas utilizadas
+## 🛠 Ferramentas Utilizadas
 
 <img src="https://skillicons.dev/icons?i=windows,vscode,git,github"/>
 
@@ -86,7 +96,7 @@ DESENVOLVIMENTO: ATIVO 🚀
 
 <br><br>
 
-## 🔮 Próximo nível
+## 🔮 Próximo Nível
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
@@ -96,95 +106,169 @@ DESENVOLVIMENTO: ATIVO 🚀
 
 # 🚀 Projetos
 
-<table>
-
-<tr>
-
-<td width="50%">
-
 ## 💻 Estudos em C
 
-Primeiros projetos desenvolvidos durante minha jornada de aprendizado em programação.
-
-Inclui:
-
-- Exercícios de lógica
-- Algoritmos
-- Prática de código
+Repositório dedicado aos meus primeiros códigos, exercícios de lógica e aprendizado da linguagem C.
 
 Status:
 
-🟢 Em evolução
-
-</td>
+🟢 Em desenvolvimento
 
 
-<td width="50%">
+---
 
 ## 📚 Projetos de ADS
 
-Projetos e atividades desenvolvidos durante minha graduação.
-
-Inclui:
-
-- Trabalhos acadêmicos
-- Estudos práticos
-- Experimentos
+Projetos e atividades desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas.
 
 Status:
 
 🟢 Em construção
 
-</td>
 
-</tr>
-
-
-<tr>
-
-<td width="50%">
+---
 
 ## 🧩 Desafios de Programação
 
-Práticas para desenvolver raciocínio lógico e melhorar minhas habilidades.
+Resolução de problemas para desenvolver raciocínio lógico e melhorar minhas habilidades.
 
 Status:
 
-🟡 Aprendizado contínuo
-
-</td>
+🟡 Evoluindo
 
 
-<td width="50%">
+---
 
-## ☕ Próximos projetos em Java
+## ☕ Próximos Projetos em Java
 
-Espaço reservado para meus futuros projetos utilizando Java.
+Espaço reservado para futuros projetos utilizando Java.
 
 Status:
 
 🔵 Planejamento
 
-</td>
+---
 
-</tr>
+# 💻 Terminal de Objetivos
 
-</table>
+```text
+> iniciar_milena_future.exe
+
+
+[✔] ADS Student carregada
+
+[✔] C Programming ativado
+
+[✔] Lógica de programação evoluindo
+
+[✔] GitHub configurado
+
+
+MISSÃO ATUAL:
+
+> Tornar-me Desenvolvedora de Software
+
+
+PROGRESSO:
+
+██████░░░░░░░░░░░░░░ 30%
+
+
+STATUS:
+
+MODO APRENDIZADO: ATIVO
+```
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,30:083344,60:06B6D4,100:020617&text=MILENA%20SOUSA%20DEV&fontColor=22D3EE&fontSize=45&fontAlignY=38&animation=fadeIn&desc=ADS%20Student%20%7C%20C%20Developer%20in%20Progress%20%7C%20Future%20Software%20Developer&descAlignY=58"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sousamilenap&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousamilenap&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sousamilenap&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sousamilenap&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sousamilenap&theme=tokyonight&no-frame=true"/>
+
+</div>
+
+---
+
+# 🐍 Snake Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sousamilenap/sousamilenap/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Redes Sociais
+
+<div align="center">
+
+<a href="https://github.com/sousamilenap">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/milena-sousa-9b50a93ba/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ SYSTEM STATUS
+
+```text
+DEVELOPER CORE.......ONLINE
+
+CODING...............ACTIVE
+
+LEARNING.............RUNNING
+
+JAVA MODULE..........LOADING
+
+CREATIVITY...........100%
+
+DETERMINATION........∞
+```
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Inicializando+perfil+de+desenvolvedora...;Olá,+eu+sou+Milena+Sousa;Estudante+de+ADS;Aprendendo+linguagem+C;Próximo+nível:+Java;Construindo+minha+jornada+na+tecnologia"/>
+## ⭐ Obrigada pela visita!
 
-<br><br>
-
-<img src="https://img.shields.io/badge/MILENA%20SOUSA-DEV-06B6D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/STATUS-EM%20EVOLUÇÃO-22C55E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NEXT-JAVA-F59E0B?style=for-the-badge"/>
+### ✨ "Andar com fé eu vou, que a fé não costuma faiá."
 
 </div>
