@@ -150,10 +150,7 @@ MODO APRENDIZADO: ATIVO
 <div align="center"> <img src="https://streak-stats.demolab.com?user=sousamilenap&theme=tokyonight&hide_border=true"/> </div>
 📈 Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sousamilenap&theme=tokyo-night&hide_border=true"/> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sousamilenap&theme=tokyonight&no-frame=true&column=7"/> </div>
-🐍 Snake Contribution Animation
-<div align="center"> <img src="https://raw.githubusercontent.com/sousamilenap/sousamilenap/output/github-contribution-grid-snake-dark.svg"/> </div>
+
 🌐 Redes Sociais
 <div align="center"> <a href="https://github.com/sousamilenap"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/milena-sousa-9b50a93ba/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </div>
 ⚡ SYSTEM STATUS
