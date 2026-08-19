@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,20:0A192F,40:00F5FF,60:6C63FF,80:00C2FF,100:050816&text=MILENA%20SOUSA%20DEV&fontColor=00F5FF&fontSize=42&fontAlignY=38&animation=fadeIn&desc=ADS%20Student%20%7C%20C%20Developer%20in%20Progress%20%7C%20Future%20Software%20Developer&descAlignY=58"/> <br> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Inicializando+perfil+de+desenvolvedora...;Olá,+eu+sou+Milena+Sousa;Estudante+de+ADS;Aprendendo+a+linguagem+C;Próximo+nível:+Java;Interesse+em+Cibersegurança"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,20:0A192F,40:00F5FF,60:6C63FF,80:00C2FF,100:050816&text=MILENA%20SOUSA%20DEV&fontColor=00F5FF&fontSize=42&fontAlignY=38&animation=fadeIn&desc=ADS%20Student%20%7C%20C%20Developer%20in%20Progress%20%7C%20Future%20Software%20Developer&descAlignY=58"/> <br> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Inicializando+perfil+de+desenvolvedora...;Olá,+eu+sou+a+Milena+Sousa
+;Estudante+de+ADS;Aprendendo+a+linguagem+C;Próximo+nível:+Java;Interesse+em+Cibersegurança"/>
 
 <br><br>
 
